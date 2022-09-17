@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329278647384",
+    "project_id": "auth-shop-me",
+    "storage_bucket": "auth-shop-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329278647384:android:426513cde523b61eef2e2d",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329278647384-lij8k392ohoapp7nps2nr3b5nnggt18v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUthV4Rmnmp7Jpd_GRwkFJHgjlcEre57w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329278647384-lij8k392ohoapp7nps2nr3b5nnggt18v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
